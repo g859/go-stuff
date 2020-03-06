@@ -1,0 +1,15 @@
+google.com
+facebook.com
+twitch.tv
+reddit.com
+espn.com
+cnn.com
+msnbc.com
+guru3d.com
+macrumors.com
+cloudflare.com
+github.com
+medium.com
+youtube.com
+instagram.com
+twitter.com
